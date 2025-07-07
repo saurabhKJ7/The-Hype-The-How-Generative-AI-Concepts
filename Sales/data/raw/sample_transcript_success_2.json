@@ -1,0 +1,12 @@
+{
+    "transcript": "Hello, Tom from Sales Corp here. I understand you've been exploring our analytics platform. The demo last week went well, right? Excellent! I'm glad the team found the custom reporting features useful. Yes, we can definitely set up those specific dashboards you mentioned. The enterprise plan includes priority support and custom integrations. Perfect timing - we have a special offer this quarter. Shall we proceed with the contract? Great! I'll send over the paperwork right away.",
+    "label": 1,
+    "metadata": {
+        "industry": "Finance",
+        "product": "Enterprise Software",
+        "duration": 850,
+        "call_time": "2024-03-16T10:15:00Z",
+        "agent_id": "SA789",
+        "customer_company_size": "200-500"
+    }
+} 

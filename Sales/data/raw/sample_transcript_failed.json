@@ -1,0 +1,12 @@
+{
+    "transcript": "Hi, this is Sarah from Sales Corp. I see you signed up for our trial last month. How has your experience been? I understand your concerns about the pricing. Yes, our enterprise tier is a significant investment. I can explain the ROI calculations... I see. Well, if budget is the main constraint, perhaps we could revisit this in the next quarter? No? Alright, I appreciate your time and feedback. Please don't hesitate to reach out if your situation changes.",
+    "label": 0,
+    "metadata": {
+        "industry": "Retail",
+        "product": "Enterprise Software",
+        "duration": 540,
+        "call_time": "2024-03-15T15:45:00Z",
+        "agent_id": "SA456",
+        "customer_company_size": "10-50"
+    }
+} 

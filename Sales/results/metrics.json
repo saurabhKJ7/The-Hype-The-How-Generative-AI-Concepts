@@ -1,0 +1,26 @@
+{
+    "generic": {
+        "train_accuracy": 0.5714285714285714,
+        "train_precision": 0.5714285714285714,
+        "train_recall": 1.0,
+        "train_f1": 0.7272727272727273,
+        "train_auc": 0.5,
+        "val_accuracy": 0.5,
+        "val_precision": 0.5,
+        "val_recall": 1.0,
+        "val_f1": 0.6666666666666666,
+        "val_auc": 0.5
+    },
+    "fine_tuned": {
+        "train_accuracy": 0.5714285714285714,
+        "train_precision": 0.5714285714285714,
+        "train_recall": 1.0,
+        "train_f1": 0.7272727272727273,
+        "train_auc": 0.5,
+        "val_accuracy": 0.5,
+        "val_precision": 0.5,
+        "val_recall": 1.0,
+        "val_f1": 0.6666666666666666,
+        "val_auc": 0.5
+    }
+}

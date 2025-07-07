@@ -1,0 +1,12 @@
+{
+    "transcript": "Hello, Mike from Sales Corp. I noticed you haven't used the platform much since the trial started. Have you encountered any issues? I understand the learning curve can be steep. We do offer training sessions, but they're only included in the enterprise package. The basic tier might be too limited for your needs, but the enterprise cost is... I see. Yes, our competitors do offer similar features at a lower price point. Well, thank you for your time. Feel free to reach out if you'd like to explore other options in the future.",
+    "label": 0,
+    "metadata": {
+        "industry": "Education",
+        "product": "Enterprise Software",
+        "duration": 420,
+        "call_time": "2024-03-16T16:30:00Z",
+        "agent_id": "SA202",
+        "customer_company_size": "10-50"
+    }
+} 

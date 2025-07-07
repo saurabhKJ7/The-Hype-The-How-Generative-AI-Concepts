@@ -1,0 +1,12 @@
+{
+    "transcript": "Hi, this is John from Sales Corp. I noticed you've been using our trial version. How are you finding the product so far? That's great to hear! Yes, our enterprise version includes all those features plus advanced analytics. The pricing is actually quite competitive - we offer flexible payment terms and volume discounts. Would you like me to put together a custom quote for your team? Perfect! Let me walk you through the next steps.",
+    "label": 1,
+    "metadata": {
+        "industry": "Technology",
+        "product": "Enterprise Software",
+        "duration": 720,
+        "call_time": "2024-03-15T14:30:00Z",
+        "agent_id": "SA123",
+        "customer_company_size": "50-200"
+    }
+} 
